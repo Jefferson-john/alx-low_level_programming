@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - UNIX
- * return:1
+ * Return:1
 */
 int main(void)
 {
